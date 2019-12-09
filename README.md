@@ -1,5 +1,5 @@
 # homework
-toos for homework
+tools for homework
 
 工具：
 使用开源在线的appinventor绘制
